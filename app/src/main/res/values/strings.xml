@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Thực hành 2</string>
+    <string name="publisher_prompt">Chọn Album</string>
+    <string-array name="publishers_array">
+        <item>Cho 1 tình yêu</item>
+        <item>Nỗi yêu bé dại</item>
+        <item>Cây lặng gió ngừng</item>
+        <item>Có dừng được không</item>
+        <item>Đây là mơ</item>
+        <item>Ở giữa cuộc đời</item>
+    </string-array>
+
+    <string name="type_prompt">Chọn Thể loại</string>
+    <string-array name="type_array">
+        <item>Country</item>
+        <item>Blues</item>
+        <item>Rock</item>
+        <item>Pop</item>
+    </string-array>
+
+    <string-array name="find_type_array">
+        <item>Chọn tất cả</item>
+        <item>Country</item>
+        <item>Blues</item>
+        <item>Rock</item>
+        <item>Pop</item>
+    </string-array>
+</resources>
